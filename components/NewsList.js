@@ -41,7 +41,6 @@ class NewsList {
                                         <img src="img/ball-triangle.svg" alt="Loading..." />
                                     </div>
                                  </div>`;
-        // this.getNews(this.category, this.page, this.pageSize)
     }
 
     clearNewsList() {
